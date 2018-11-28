@@ -1,0 +1,115 @@
+---
+mainfont: "Linux Biolinum O"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    template: ~/joseph-cv/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "Curriculum Vitae"
+author: Joseph S. Tabadero, Jr.
+
+jobtitle: "Special Science Teacher IV (Mathematics), Philippine Science High School - CAR Campus"
+address: "Purok 12 · Irisan · Baguio City · Philippines"
+email: josephuses@gmail.com
+github: josephuses
+phone: "+63 947 998 8609"
+web: josephtabadero.neocities.org
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: red
+urlcolor: blue
+---
+
+# Employment
+
+*Philippine Science High School - Cordillera Administrative Region Campus*
+
+Special Science Teacher IV (Mathematics), \hfill 2017-present
+
+Special Science Teacher III (Mathematics) \hfill 2012-2017
+
+Special Science Teacher II (Mathematics) \hfill 2009-2012
+
+*University of Pangasinan*
+
+Assistant Professor I (Mathematics and Natural Sciences Department) \hfill 2008-2009
+
+Assistant Instructor I (Mathematics and Natural Sciences Department) \hfill 2004-2008
+
+
+# Education
+
+*University of the Philippines-Los Baños*, Ph.D. Statistics (Completed course works) under the DOST Human Resources Development Program\hfill 2015-present
+
+*University of the Philippines Open University*, Ph.D. Ed. (units) \hfill 2010-2011
+
+*University of the Philippines-Baguio*, M.S. Mathematics (non-thesis) under the Commission on Higher Education Faculty Development Scholarship Grant \hfill 2005-2007
+
+*Univeristy of Pangasinan*, Bachelor of Secondary Education (Major in Mathematics). Dean's Leadership Award. \hfill 2000-2004
+
+# Eligibilities
+
+**Licensure Examination for Teachers–Secondary Level**, *2nd Placer*, Rating:
+91.00. \hfill August 2004
+
+**Career Service Examination–Professional**, *1st Placer* in the entire Pangasinan,
+Rating: 90.00, Lingayen, Pangasinan. \hfill April 2004
+
+**Career Service Examination–Sub-Professional**, *1st Placer* in the entire Pangasinan, Rating: 86.76, Lingayen, Pangasinan. \hfill April 2003
+
+
+# Selected Seminars, Trainings and Other Short Courses
+
+**Social Science Stat-Er Pack, Vol. 2**. *Resource Person*. UP Socius, University of the Philippines-Los Ba\~nos \hfill April 24, 2018
+
+**PSHSS Statistics Teachers' Training**. ***Resource Person***. Philippine Science High School System \hfill 2018
+
+**Machine Learning A-Z: Hands-on Python & R In Data Science** online course through **Udemy**. <https://www.udemy.com/certificate/UC-ORHPRYVH/> \hfill March 27, 2018
+
+**Complete Python Bootcamp: Go from zero to hero in Python 3** online course through **Udemy**. <https://www.udemy.com/certificate/UC-S97U86HJ/> \hfill February 19, 2017
+
+**Division Training-Workshop on Critical Content and Issues in the K to 12 Mathematics Implementation**. ***Resource Speaker***. Benigno V. Aldana NHS, Pozorrubio, Pangasinan\hfill November 24-26, 2017
+
+**National Research Colloquium in Mathematics and Mathematics Education**. ***Resource Speaker*** for **R for Filipino Researchers***.  Urdaneta City University, Pangasinan\hfill November 16-18, 2017
+
+**Developing Data Products**. *John Hopkin's University* through *Coursera*. <https://www.coursera.org/account/accomplishments/certificate/TNJQBJPLZGV3> \hfill October 14, 2017
+
+**Practical Machine Learning**. *John Hopkin's University* through *Coursera*. <https://www.coursera.org/account/accomplishments/certificate/XGMRWGKTSKZ4> \hfill October 10, 2017 
+
+**Regression Models**. *John Hopkin's University* through *Coursera*. <https://www.coursera.org/account/accomplishments/certificate/EA5FQPKRZ89J> \hfill October 2, 2017
+
+**Exploratory Data Analysis**. *John Hopkin's University* through *Coursera*. <https://www.coursera.org/account/accomplishments/certificate/WN2HVXLEBJLA> \hfill October 1, 2017
+
+**Reproducible Research**. *John Hopkin's University* through *Coursera*. <https://www.coursera.org/account/accomplishments/certificate/ASDSK7U3JFVR> \hfill September 30, 2017
+
+**Getting and Cleaning Data**. *John Hopkin's University* through *Coursera*. <https://www.coursera.org/account/accomplishments/certificate/VNBH5KWBZA4T> \hfill September 25, 2017
+
+**Statistical Inference**. *John Hopkin's University* through *Coursera*. <https://www.coursera.org/account/accomplishments/certificate/UWAT4NR7SXLU> \hfill September 23, 2017
+
+**R Programming**. *John Hopkin's University* through *Coursera*. <https://www.coursera.org/account/accomplishments/certificate/P7BV5NAPT5JK> \hfill September 23, 2017
+
+**The Data Scientist's Toolbox**. *John Hopkin's University* through *Coursera*. <https://www.coursera.org/account/accomplishments/certificate/UYLT5CTYBV9B> \hfill September 11, 2017
+
+# Interests
+
+*Programming languages*: R, Python, SQL, \LaTeX, Markdown, HTML, C++
+
+*Statistical packages*: R, Stata, SAS, JMP, SPSS
+
+*Operating Systems*: Linux, Microsoft Windows
+
+Survey Sampling, Machine Learning, Big Data Analytics
+
+Development of applications for improving instruction in mathematics and statistics
+
+# References
+
+**Conrado C. Rotor, Jr., Ph.D**. *Campus Director*, Philippine Science High School-Cordillera Administrative Region Campus
+
+**Melba C. Patacsil**. *CID Chief*, Philippine Science High School-Cordillera Administrative Region Campus
